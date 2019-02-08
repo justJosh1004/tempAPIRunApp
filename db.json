@@ -1,0 +1,44 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "owner": "Josh",
+      "name": "Fun Run",
+      "type": "Trail",
+      "location": "Frick Park",
+      "miles": 10,
+      "date": "2019-02-04",
+      "startTime": "2019-02-04 08:00:00 UTC"
+    },
+    {
+      "id": 2,
+      "owner": "Josh",
+      "name": "Fun Run",
+      "type": "Trail",
+      "location": "Frick Park",
+      "miles": 5,
+      "date": "2019-02-05",
+      "startTime": "2019-02-05 08:00:00 UTC"
+    },
+    {
+      "id": 3,
+      "owner": "Whitney",
+      "name": "Fun Run",
+      "type": "Trail",
+      "location": "Frick Park",
+      "miles": 10,
+      "date": "2019-02-06",
+      "startTime": "2019-02-06 08:00:00 UTC"
+    },
+    {
+      "id": 4,
+      "owner": "Josh",
+      "name": "Fun Run",
+      "type": "Trail",
+      "location": "Frick Park",
+      "miles": 5,
+      "date": "2019-02-07",
+      "startTime": "2019-02-07 08:00:00 UTC"
+    }
+  ]
+}
