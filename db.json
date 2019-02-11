@@ -39,6 +39,28 @@
       "miles": 5,
       "date": "2019-02-07",
       "startTime": "2019-02-07 08:00:00 UTC"
+    },
+    {
+      "owner": "Josh",
+      "name": "Night Run",
+      "location": "Frick Park",
+      "startTime": "19:00",
+      "date": "2019-02-08",
+      "miles": "7",
+      "pace": "8:00",
+      "type": "trail",
+      "id": 5
+    },
+    {
+      "name": "Morning Run",
+      "location": "Schenley Park",
+      "startTime": "06:00",
+      "date": "2019-02-14",
+      "miles": "5",
+      "pace": "7:00",
+      "type": "trail",
+      "owner": "Josh",
+      "id": 6
     }
   ]
 }
